@@ -1,0 +1,6 @@
+0 acne_keloidalis
+1 acne_open-closed_comodo
+2 acne-pustular_excoriated-infantile
+3 actinic_comedones
+4 keratolysis_exfoliativa
+5 sun_damage
